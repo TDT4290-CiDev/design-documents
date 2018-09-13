@@ -1,0 +1,54 @@
+{
+    "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
+    "pagesAndArtboards": {
+        "DD423C44-C519-42C0-AE6F-5323F87EA32B": {
+            "name": "Page 1",
+            "artboards": {
+                "DAFD586D-4D04-4AEA-A33B-4E85635CD59A": {
+                    "name": "Skjemadesigner Prefilled Example"
+                },
+                "C8395E52-8F5A-44FD-99A5-E5B83F752DC5": {
+                    "name": "Skjemadesigner tom B"
+                },
+                "5032A2CE-602E-4F5A-A469-F9FB11826FCB": {
+                    "name": "Skjemadesigner tom A"
+                }
+            }
+        },
+        "B1CFB214-B194-4BEB-9C8D-C3D0B6DFCCF5": {
+            "name": "Symbols",
+            "artboards": {
+                "66B9874D-CA5F-436D-9709-AD617BA043E7": {
+                    "name": "Sidemeny"
+                },
+                "D3B30B34-6A5B-462F-851E-58BB62777B6C": {
+                    "name": "Cursor/text/ibeam-horizontal"
+                }
+            }
+        }
+    },
+    "version": 101,
+    "fonts": [
+        "Montserrat-Medium",
+        "AmericanTypewriter",
+        "Montserrat-Regular"
+    ],
+    "compatibilityVersion": 93,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 1,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
+        "appVersion": "49.3",
+        "build": 51167,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 93,
+        "version": 101,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.51167"
+    ],
+    "appVersion": "49.3",
+    "build": 51167
+}
