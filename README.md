@@ -16,4 +16,4 @@ The local repo needs some configuration to be able to properly VC Sketch files. 
 
 ### Windows
 
-The designers all use MacOS (sorry not sorry), but feel free to do it manually based on (this guide)[https://medium.com/cloudaper/simple-git-versioning-for-sketch-5d77df01571e] by Kryštof Korb or make a PowerShell script that works for you. If you decide to make a script, please PR it over here so everyone can enjoy it :)
+The designers all use MacOS (sorry not sorry), but feel free to do it manually based on [this guide](https://medium.com/cloudaper/simple-git-versioning-for-sketch-5d77df01571e) by Kryštof Korb or make a PowerShell script that works for you. If you decide to make a script, please PR it over here so everyone can enjoy it :)
