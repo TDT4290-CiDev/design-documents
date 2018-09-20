@@ -4,25 +4,40 @@
         "DD423C44-C519-42C0-AE6F-5323F87EA32B": {
             "name": "Page 1",
             "artboards": {
-                "DAFD586D-4D04-4AEA-A33B-4E85635CD59A": {
-                    "name": "Skjemadesigner Prefilled Example"
+                "4757B646-00C3-4D2E-B257-94525DBAEA9A": {
+                    "name": "Skjemadesigner utfylt lukket kart"
+                },
+                "E05FCB48-AF7A-4364-AA51-FE089D6D3EE9": {
+                    "name": "Skjemadesigner utfylt \u00e5pent kart"
                 },
                 "C8395E52-8F5A-44FD-99A5-E5B83F752DC5": {
-                    "name": "Skjemadesigner tom B"
+                    "name": "Skjemadesigner tekst valgt"
                 },
-                "5032A2CE-602E-4F5A-A469-F9FB11826FCB": {
-                    "name": "Skjemadesigner tom A"
+                "4D93801D-D3C9-4381-9A97-C98D4B41A508": {
+                    "name": "Skjemadesigner tom"
                 }
             }
         },
         "B1CFB214-B194-4BEB-9C8D-C3D0B6DFCCF5": {
             "name": "Symbols",
             "artboards": {
+                "D3B30B34-6A5B-462F-851E-58BB62777B6C": {
+                    "name": "Cursor/text/ibeam-horizontal"
+                },
+                "EFC1F4DC-B59C-46E1-84C5-A7C7F52F8D7A": {
+                    "name": "radio-icon"
+                },
+                "CDFFA990-94B4-4FF2-B256-DCC01E707305": {
+                    "name": "multiple-choice-icon"
+                },
+                "104825F7-A3E4-4241-8304-D8DF1BC0B1CB": {
+                    "name": "more"
+                },
                 "66B9874D-CA5F-436D-9709-AD617BA043E7": {
                     "name": "Sidemeny"
                 },
-                "D3B30B34-6A5B-462F-851E-58BB62777B6C": {
-                    "name": "Cursor/text/ibeam-horizontal"
+                "8857406A-0BD8-4CD1-A129-BBB55FF30DBE": {
+                    "name": "text-field-icon"
                 }
             }
         }
@@ -35,7 +50,7 @@
     ],
     "compatibilityVersion": 93,
     "app": "com.bohemiancoding.sketch3",
-    "autosaved": 1,
+    "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
         "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",

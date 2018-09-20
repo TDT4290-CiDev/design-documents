@@ -3,7 +3,22 @@
     "do_objectID": "131EEE1E-FEE0-4CDE-A3D2-6D73EEAE2FF6",
     "assets": {
         "_class": "assetCollection",
-        "colors": [],
+        "colors": [
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9907525510204082,
+                "green": 0.5800609096730877,
+                "red": 0.22782930347802
+            },
+            {
+                "_class": "color",
+                "alpha": 0.3954653532608696,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+            }
+        ],
         "gradients": [],
         "imageCollection": {
             "_class": "imageCollection",
@@ -75,7 +90,7 @@
                                 "green": 0
                             },
                             "MSAttributedStringFontAttribute": {
-                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QEkFtZXJpY2FuVHlwZXdyaXRlctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QEkFtZXJpY2FuVHlwZXdyaXRlctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
                             },
                             "paragraphStyle": {
                                 "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
@@ -133,6 +148,36 @@
                                 "alpha": 0.326370018115942,
                                 "blue": 0,
                                 "green": 0
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPAAAAAAAAF8QEkFtZXJpY2FuVHlwZXdyaXRlctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "473A93E1-DC36-45DE-A303-E358441A2A09",
+                "name": "Skjemakart aktiv",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "473A93E1-DC36-45DE-A303-E358441A2A09",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.176470588235294,
+                                "alpha": 1,
+                                "blue": 0.9803921568627451,
+                                "green": 0.5490196078431369
                             },
                             "MSAttributedStringFontAttribute": {
                                 "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPAAAAAAAAF8QEkFtZXJpY2FuVHlwZXdyaXRlctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
