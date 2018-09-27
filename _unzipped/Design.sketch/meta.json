@@ -2,22 +2,28 @@
     "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
     "pagesAndArtboards": {
         "DD423C44-C519-42C0-AE6F-5323F87EA32B": {
-            "name": "Page 1",
+            "name": "Desktop",
             "artboards": {
+                "4D93801D-D3C9-4381-9A97-C98D4B41A508": {
+                    "name": "Skjemadesigner tom"
+                },
                 "4757B646-00C3-4D2E-B257-94525DBAEA9A": {
                     "name": "Skjemadesigner utfylt lukket kart"
                 },
-                "E05FCB48-AF7A-4364-AA51-FE089D6D3EE9": {
-                    "name": "Skjemadesigner utfylt \u00e5pent kart"
+                "7C16C1F8-7D02-4DF1-8590-0C297E6A4433": {
+                    "name": "Skjemadesigner utfylt fonter og farger"
                 },
                 "ACBF00A5-9645-42BE-BAC4-72FF9A572FF5": {
                     "name": "Skjemadesigner utfylt lang"
                 },
+                "B159ED99-118F-40B2-A197-F4A4002A1E6A": {
+                    "name": "Skjemadesigner utfylt lukket kart design"
+                },
+                "E05FCB48-AF7A-4364-AA51-FE089D6D3EE9": {
+                    "name": "Skjemadesigner utfylt \u00e5pent kart"
+                },
                 "C8395E52-8F5A-44FD-99A5-E5B83F752DC5": {
                     "name": "Skjemadesigner tekst valgt"
-                },
-                "4D93801D-D3C9-4381-9A97-C98D4B41A508": {
-                    "name": "Skjemadesigner tom"
                 }
             }
         },
@@ -47,9 +53,12 @@
     },
     "version": 101,
     "fonts": [
+        "Karla-Bold",
+        "Karla-Regular",
+        "LucidaGrande",
         "Montserrat-Medium",
-        "AmericanTypewriter",
-        "Montserrat-Regular"
+        "Spectral-Regular",
+        "AmericanTypewriter"
     ],
     "compatibilityVersion": 93,
     "app": "com.bohemiancoding.sketch3",
