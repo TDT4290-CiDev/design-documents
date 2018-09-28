@@ -11,8 +11,10 @@ The local repo needs some configuration to be able to properly VC Sketch files. 
 1. Clone the repo
 2. Make the init script runnable with `chmod +x inject-hooks.sh`
 3. Run the init script with `./inject-hooks.sh`
-4. ????
-5. Profit!
+4. Checkout something old to start using the hooks: `git checkout HEAD~1`
+5. Checkout master to get the current version after triggering the hooks for the first time: `git checkout master`
+6. ????
+7. Profit!
 
 ### Windows
 
