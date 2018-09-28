@@ -5,33 +5,39 @@
             "name": "Desktop",
             "artboards": {
                 "4D93801D-D3C9-4381-9A97-C98D4B41A508": {
-                    "name": "Skjemadesigner tom"
-                },
-                "4757B646-00C3-4D2E-B257-94525DBAEA9A": {
-                    "name": "Skjemadesigner utfylt lukket kart"
+                    "name": "Form Designer Empty"
                 },
                 "7C16C1F8-7D02-4DF1-8590-0C297E6A4433": {
-                    "name": "Skjemadesigner utfylt fonter og farger"
-                },
-                "ACBF00A5-9645-42BE-BAC4-72FF9A572FF5": {
-                    "name": "Skjemadesigner utfylt lang"
+                    "name": "Form Designer Fonts & Colours 1"
                 },
                 "B159ED99-118F-40B2-A197-F4A4002A1E6A": {
-                    "name": "Skjemadesigner utfylt lukket kart design"
+                    "name": "Form Designer Design 1"
                 },
-                "E05FCB48-AF7A-4364-AA51-FE089D6D3EE9": {
-                    "name": "Skjemadesigner utfylt \u00e5pent kart"
+                "BFC84319-11E0-4883-B6C3-3DFE56DB394D": {
+                    "name": "Form Designer Design 2"
+                },
+                "6019FA28-38BA-4469-BBC2-49AB6718CC0C": {
+                    "name": "Form Designer Design 3"
+                },
+                "8499C587-CEB6-415D-94A8-6A739B2AA303": {
+                    "name": "Form Designer Fonts & Colours 2"
+                },
+                "FB9B1810-CC01-4D36-8390-FBFEFA0F5182": {
+                    "name": "Form Designer Map Open"
+                },
+                "0AE5BE0E-53D4-4C82-8619-3723FC7F1706": {
+                    "name": "Form Designer Fonts & Colours 3"
                 },
                 "C8395E52-8F5A-44FD-99A5-E5B83F752DC5": {
-                    "name": "Skjemadesigner tekst valgt"
+                    "name": "Form Designer Text Selected"
                 }
             }
         },
         "B1CFB214-B194-4BEB-9C8D-C3D0B6DFCCF5": {
             "name": "Symbols",
             "artboards": {
-                "D3B30B34-6A5B-462F-851E-58BB62777B6C": {
-                    "name": "Cursor/text/ibeam-horizontal"
+                "DB7B16EE-3F97-45FF-9F70-83E237D396F1": {
+                    "name": "Seach symbol blue"
                 },
                 "EFC1F4DC-B59C-46E1-84C5-A7C7F52F8D7A": {
                     "name": "radio-icon"
@@ -42,23 +48,21 @@
                 "104825F7-A3E4-4241-8304-D8DF1BC0B1CB": {
                     "name": "more"
                 },
-                "66B9874D-CA5F-436D-9709-AD617BA043E7": {
-                    "name": "Sidemeny"
-                },
                 "8857406A-0BD8-4CD1-A129-BBB55FF30DBE": {
                     "name": "text-field-icon"
+                },
+                "BE7272B5-5EE2-4C8D-8F92-64513868ACCE": {
+                    "name": "Seach symbol"
                 }
             }
         }
     },
     "version": 101,
     "fonts": [
-        "Karla-Bold",
         "Karla-Regular",
         "LucidaGrande",
-        "Montserrat-Medium",
         "Spectral-Regular",
-        "AmericanTypewriter"
+        "Karla-Bold"
     ],
     "compatibilityVersion": 93,
     "app": "com.bohemiancoding.sketch3",
