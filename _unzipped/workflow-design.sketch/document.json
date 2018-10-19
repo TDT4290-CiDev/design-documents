@@ -1,0 +1,317 @@
+{
+    "_class": "document",
+    "do_objectID": "9D1FDAAA-B026-466B-ABAF-8C90C8A48F23",
+    "assets": {
+        "_class": "assetCollection",
+        "colors": [
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2431372549019608,
+                "green": 0.2431372549019608,
+                "red": 0.2431372549019608
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6627450980392157,
+                "green": 0.6627450980392157,
+                "red": 0.6627450980392157
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.984313725490196,
+                "green": 0.984313725490196,
+                "red": 0.984313725490196
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9607843137254902,
+                "green": 0.9607843137254902,
+                "red": 0.9607843137254902
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4941176470588236,
+                "green": 0.392156862745098,
+                "red": 0.0980392156862745
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6784313725490196,
+                "green": 0.5764705882352941,
+                "red": 0.1764705882352942
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7960784313725489,
+                "green": 0.807843137254902,
+                "red": 0
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3411764705882353,
+                "green": 0.7843137254901962,
+                "red": 1
+            },
+            {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3607843137254902,
+                "green": 0.3568627450980392,
+                "red": 0.2980392156862745
+            }
+        ],
+        "gradients": [],
+        "imageCollection": {
+            "_class": "imageCollection",
+            "images": {}
+        },
+        "images": []
+    },
+    "colorSpace": 0,
+    "currentPageIndex": 0,
+    "foreignSymbols": [],
+    "layerStyles": {
+        "_class": "sharedStyleContainer",
+        "objects": []
+    },
+    "layerSymbols": {
+        "_class": "symbolContainer",
+        "objects": []
+    },
+    "layerTextStyles": {
+        "_class": "sharedTextStyleContainer",
+        "objects": [
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "5DD8BBCA-61BF-45C8-A4C0-3E84D666E554",
+                "name": "Side Menu Header",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "5DD8BBCA-61BF-45C8-A4C0-3E84D666E554",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2980392156862745,
+                                "alpha": 1,
+                                "blue": 0.3607843137254902,
+                                "green": 0.3568627450980392
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "0FC816EF-DA3D-4732-940D-50E6E974FC4C",
+                "name": "Side Menu Item",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "0FC816EF-DA3D-4732-940D-50E6E974FC4C",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2431372549019608,
+                                "alpha": 1,
+                                "blue": 0.2431372549019608,
+                                "green": 0.2431372549019608
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "57D20771-61D1-4E7B-99D6-D76B0505393D",
+                "name": "Workflow Title",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "57D20771-61D1-4E7B-99D6-D76B0505393D",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2431372549019608,
+                                "alpha": 1,
+                                "blue": 0.2431372549019608,
+                                "green": 0.2431372549019608
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAUAAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "BD32E2C6-51AF-4A6F-A446-BBF8092BA28D",
+                "name": "Workflow Element Header",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "BD32E2C6-51AF-4A6F-A446-BBF8092BA28D",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2431372549019608,
+                                "alpha": 1,
+                                "blue": 0.2431372549019608,
+                                "green": 0.2431372549019608
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "04B27E00-5A88-4C6F-AB98-D8C0F1C15EBD",
+                "name": "Workflow closed subtext",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "04B27E00-5A88-4C6F-AB98-D8C0F1C15EBD",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.6627450980392157,
+                                "alpha": 1,
+                                "blue": 0.6627450980392157,
+                                "green": 0.6627450980392157
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "3DB33286-0F02-4D10-9AC2-33645BC741FC",
+                "name": "Tag Text",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "3DB33286-0F02-4D10-9AC2-33645BC741FC",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "MSAttributedStringTextTransformAttribute": 1,
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2431372549019608,
+                                "alpha": 1,
+                                "blue": 0.2431372549019608,
+                                "green": 0.2431372549019608
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "C7B0726D-EED1-46C1-B890-FFBD297AF330",
+                "name": "Workflow open *put heading",
+                "value": {
+                    "_class": "style",
+                    "endDecorationType": 0,
+                    "miterLimit": 10,
+                    "sharedObjectID": "C7B0726D-EED1-46C1-B890-FFBD297AF330",
+                    "startDecorationType": 0,
+                    "textStyle": {
+                        "_class": "textStyle",
+                        "encodedAttributes": {
+                            "MSAttributedStringColorDictionaryAttribute": {
+                                "red": 0.2980392156862745,
+                                "alpha": 1,
+                                "blue": 0.3607843137254902,
+                                "green": 0.3568627450980392
+                            },
+                            "MSAttributedStringFontAttribute": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF1LYXJsYS1SZWd1bGFy0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            },
+                            "paragraphStyle": {
+                                "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+                            }
+                        },
+                        "verticalAlignment": 0
+                    }
+                }
+            }
+        ]
+    },
+    "pages": [
+        {
+            "_class": "MSJSONFileReference",
+            "_ref_class": "MSImmutablePage",
+            "_ref": "pages/B6F0C752-79B5-45B1-BDB2-FE052C215731"
+        },
+        {
+            "_class": "MSJSONFileReference",
+            "_ref_class": "MSImmutablePage",
+            "_ref": "pages/CCE561AB-467C-4CF8-BBB1-2F7729ABD5D3"
+        }
+    ]
+}

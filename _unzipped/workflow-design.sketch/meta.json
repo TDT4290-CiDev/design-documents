@@ -1,0 +1,86 @@
+{
+    "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
+    "pagesAndArtboards": {
+        "B6F0C752-79B5-45B1-BDB2-FE052C215731": {
+            "name": "Page 1",
+            "artboards": {
+                "5FBCC0F9-511E-4627-9B83-875F6E617AFD": {
+                    "name": "Workflow Collapsed Conditional"
+                },
+                "7C7FBF7A-B3B3-4D57-B21E-343387B26A22": {
+                    "name": "Workflow Empty Conditional Branch"
+                },
+                "CCFA28A8-C9A6-4F6D-A2CF-D1BDDC7EB269": {
+                    "name": "Workflow Expanded Elements"
+                },
+                "CE1DF580-031E-4296-8AE3-F213A7D3A657": {
+                    "name": "Workflow Nested Conditional"
+                },
+                "B8687E2B-AB9E-4775-A237-9904569D8304": {
+                    "name": "Workflow"
+                }
+            }
+        },
+        "CCE561AB-467C-4CF8-BBB1-2F7729ABD5D3": {
+            "name": "Symbols",
+            "artboards": {
+                "A521B6F2-38B8-46C9-8CDA-3A22655AE931": {
+                    "name": "More"
+                },
+                "CA1CFFD1-DD56-4382-8DF4-5D4AE04C205F": {
+                    "name": "Empty element slot"
+                },
+                "A370AD0C-CDCA-434C-889A-AC468F984538": {
+                    "name": "Conditional collapsed"
+                },
+                "266671FF-7620-46AC-8E52-5CDDAADF4162": {
+                    "name": "Side menu open"
+                },
+                "E8B5DB04-2777-4F7A-91DC-0284D72273CC": {
+                    "name": "Event"
+                },
+                "95663E8B-427C-4A84-8964-1507E8F79F7A": {
+                    "name": "End event"
+                },
+                "6441A3C8-A520-44FA-B6FA-2E52186E545B": {
+                    "name": "Process"
+                },
+                "6EB3BF6D-60AA-444F-A420-CF159A18B98F": {
+                    "name": "Side menu only process"
+                },
+                "75C1A155-B461-4AAF-B924-8C1B14BDA388": {
+                    "name": "Conditional open"
+                },
+                "0DB3267D-33BE-4A1F-BEA8-4BBBEA420AAB": {
+                    "name": "Conditional split"
+                },
+                "50373B25-E16B-4C89-BD54-9396BFF14F32": {
+                    "name": "Side menu fully closed"
+                }
+            }
+        }
+    },
+    "version": 101,
+    "fonts": [
+        "LucidaGrande",
+        "Karla-Regular"
+    ],
+    "compatibilityVersion": 93,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
+        "appVersion": "49.3",
+        "build": 51167,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 93,
+        "version": 101,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.51167"
+    ],
+    "appVersion": "49.3",
+    "build": 51167
+}
