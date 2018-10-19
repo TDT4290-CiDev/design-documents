@@ -4,6 +4,9 @@
         "B6F0C752-79B5-45B1-BDB2-FE052C215731": {
             "name": "Page 1",
             "artboards": {
+                "5CE6E637-65E9-4CF1-BA74-0F3ABE3E597F": {
+                    "name": "Workflow types and colors"
+                },
                 "5FBCC0F9-511E-4627-9B83-875F6E617AFD": {
                     "name": "Workflow Collapsed Conditional"
                 },
@@ -24,38 +27,41 @@
         "CCE561AB-467C-4CF8-BBB1-2F7729ABD5D3": {
             "name": "Symbols",
             "artboards": {
-                "A521B6F2-38B8-46C9-8CDA-3A22655AE931": {
-                    "name": "More"
-                },
-                "CA1CFFD1-DD56-4382-8DF4-5D4AE04C205F": {
-                    "name": "Empty element slot"
-                },
-                "A370AD0C-CDCA-434C-889A-AC468F984538": {
-                    "name": "Conditional collapsed"
-                },
-                "266671FF-7620-46AC-8E52-5CDDAADF4162": {
-                    "name": "Side menu open"
-                },
-                "E8B5DB04-2777-4F7A-91DC-0284D72273CC": {
-                    "name": "Event"
-                },
-                "95663E8B-427C-4A84-8964-1507E8F79F7A": {
-                    "name": "End event"
-                },
-                "6441A3C8-A520-44FA-B6FA-2E52186E545B": {
-                    "name": "Process"
-                },
-                "6EB3BF6D-60AA-444F-A420-CF159A18B98F": {
-                    "name": "Side menu only process"
-                },
                 "75C1A155-B461-4AAF-B924-8C1B14BDA388": {
                     "name": "Conditional open"
                 },
                 "0DB3267D-33BE-4A1F-BEA8-4BBBEA420AAB": {
                     "name": "Conditional split"
                 },
+                "6EB3BF6D-60AA-444F-A420-CF159A18B98F": {
+                    "name": "Side menu only process"
+                },
+                "266671FF-7620-46AC-8E52-5CDDAADF4162": {
+                    "name": "Side menu open"
+                },
+                "A370AD0C-CDCA-434C-889A-AC468F984538": {
+                    "name": "Conditional collapsed"
+                },
+                "6441A3C8-A520-44FA-B6FA-2E52186E545B": {
+                    "name": "Process"
+                },
+                "95663E8B-427C-4A84-8964-1507E8F79F7A": {
+                    "name": "End event"
+                },
+                "CA1CFFD1-DD56-4382-8DF4-5D4AE04C205F": {
+                    "name": "Empty element slot"
+                },
                 "50373B25-E16B-4C89-BD54-9396BFF14F32": {
                     "name": "Side menu fully closed"
+                },
+                "A521B6F2-38B8-46C9-8CDA-3A22655AE931": {
+                    "name": "More"
+                },
+                "8DE9B517-DF26-4AFF-8065-8CF437538B00": {
+                    "name": "Side menu types and colors"
+                },
+                "E8B5DB04-2777-4F7A-91DC-0284D72273CC": {
+                    "name": "Event"
                 }
             }
         }
